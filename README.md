@@ -1,5 +1,7 @@
 # pocketcache
 
+![Test](https://github.com/shooontan/pocketcache/workflows/Test/badge.svg)
+
 A simple in-memory cache for Rust.
 
 
