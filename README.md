@@ -1,5 +1,6 @@
 # pocketcache
 
+![Crates.io](https://img.shields.io/crates/v/pocketcache)
 ![Test](https://github.com/shooontan/pocketcache/workflows/Test/badge.svg)
 
 A simple in-memory cache for Rust.
@@ -9,7 +10,7 @@ A simple in-memory cache for Rust.
 
 ```toml
 [dependencies]
-pocketcache = "0.0"
+pocketcache = "0.0.1"
 ```
 
 
