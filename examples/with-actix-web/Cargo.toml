@@ -1,0 +1,12 @@
+[package]
+name = "with-actix-web"
+version = "0.1.0"
+authors = ["shooontan <logo.bee.doo19@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+actix-web = "2.0.0"
+actix-rt = "1.1.1"
+pocketcache = "0.0.1"
